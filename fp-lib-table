@@ -3,4 +3,5 @@
   (lib (name "ALDP112")(type "KiCad")(uri "${KIPRJMOD}/ALDP112/footprints.pretty")(options "")(descr ""))
   (lib (name "ECE05")(type "KiCad")(uri "${KIPRJMOD}/ECE05/footprints.pretty")(options "")(descr ""))
   (lib (name "1289")(type "KiCad")(uri "${KIPRJMOD}/1289")(options "")(descr ""))
+  (lib (name "624091")(type "KiCad")(uri "${KIPRJMOD}/624091")(options "")(descr ""))
 )
