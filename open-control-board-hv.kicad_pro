@@ -444,12 +444,12 @@
       "FA9_CTRL": "12V",
       "GND1": "12V",
       "N": "230V",
+      "Net-(J1-Pin_1)": "230V",
       "Net-(J3-Pin_1)": "230V",
       "Net-(J4-Pin_1)": "230V",
       "Net-(J5-Pin_1)": "230V",
       "Net-(J6-Pin_1)": "230V",
-      "PH": "230V",
-      "PH_PRE_FUSE": "230V"
+      "PH": "230V"
     },
     "netclass_patterns": []
   },
@@ -489,7 +489,7 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "manufacturing/r0b/",
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
     "spice_model_current_sheet_as_root": true,
